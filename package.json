@@ -1,0 +1,28 @@
+{
+  "name": "project-creator",
+  "version": "0.0.0",
+  "description": "A project scafolding to create projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "project-creator": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThomRick/project-creator.git"
+  },
+  "author": "ThomRick",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ThomRick/project-creator/issues"
+  },
+  "homepage": "https://github.com/ThomRick/project-creator#readme",
+  "dependencies": {
+    "caporal": "^0.3.0",
+    "colors": "^1.1.2",
+    "prompt": "^1.0.0",
+    "shelljs": "^0.7.7"
+  }
+}

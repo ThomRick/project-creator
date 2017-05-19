@@ -1,0 +1,17 @@
+{
+  "name": "[NAME]",
+  "version": "[VERSION]",
+  "description": "[DESCRIPTION]",
+  "main": "[MAIN]",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "[AUTHOR]",
+  "license": "[LICENSE]",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "^7.0.18",
+    "typescript": "^2.3.2",
+    "jest": "^20.0.3"
+  }
+}
